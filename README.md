@@ -12,7 +12,7 @@
 
 Tamakkun is an inclusive platform dedicated to children with disabilities, providing them with opportunities to engage in play and recreation just like their peers. The system connects game centers with parents, allowing seamless booking of centers. Each participating center assigns a specialized specialist tailored to the child's specific disability, ensuring a safe and enjoyable experience. Additionally, Tamakkun fosters a supportive community where parents can share experiences, advice, and encouragement, building a network of understanding and solidarity. Special features include the generation of QR codes upon booking a center, sent to the parent's email, audio support, and an automatic request for reviews after visiting the center. The system is built using Spring Boot, DataGrip, SQL Server, Postman, Figma, and XAMPP.
 
-## Models & CRUD & DTO:
+## Models & CRUD:
 #### 1- Parent Model.
 #### 2- Community Model.
 #### 3- Post Model.
@@ -20,8 +20,18 @@ Tamakkun is an inclusive platform dedicated to children with disabilities, provi
 #### 5- Ticket Model.
 #### 6- TicketComment Model.
 
+## DTO IN:
+#### 1- ParentDTO_In.
+#### 2- TicketDTO_In.
+#### 3- TicketCommentDTO_In.
 
-
+## DTO OUT:
+#### 1- ParentDTO_Out.
+#### 2- CommunityDTO_out.
+#### 3- PostDTO_Out.
+#### 4- PostCommentDTO_Out.
+#### 5- TicketDTO_out.
+#### 6- TTicketCommentDTO_Out.
 
 
 
