@@ -49,8 +49,7 @@ Tamakkun is an inclusive platform dedicated to children with disabilities, provi
 #### 18- getAllOpenTickets
 #### 19- getAllCloseTickets
 #### 20- getAllTicketByParent
-#### 21- getAllTicketByCenter
-#### 22- getCommentsByTicket
+
 
 
 
