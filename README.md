@@ -96,3 +96,6 @@ https://www.figma.com/design/SfnHrBfcihbW2VbvwtBlXu/Tamakkun?node-id=0-1&t=gDxYq
 ## Postman API Doucumentation : 
 [https://documenter.getpostman.com/view/29329177/2sA3JKc2NP](https://documenter.getpostman.com/view/39710002/2sAYJAcwb6)
 
+## Deployment : 
+[[https://documenter.getpostman.com/view/29329177/2sA3JKc2NP](https://documenter.getpostman.com/view/39710002/2sAYJAcwb6)
+](http://tamakkun-env.eba-2pgwuiie.eu-central-1.elasticbeanstalk.com/)
